@@ -6,7 +6,6 @@
 - 🎮 [Unityroom](https://unityroom.com/users/zh0yc12d9vaoef8p7stg)
 - ✍️ [Qiita](https://qiita.com/yotya)
 - 🐦 [X (旧Twitter)](https://x.com/Mey_o_n)
-- 
 
 <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossy-o-o" />
 <img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yossy-o-o&show_icons=true&theme=transparent" />
