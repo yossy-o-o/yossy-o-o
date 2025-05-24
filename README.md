@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## 2024年1月からunityを始めた大学生です！目標は1週間に1本ゲームを開発することです！現在、Unreal EngineとC++に移行中！ よろしくお願いします🙇
+
+##I am a university student who started unity in January 2024! My goal is to develop one game a week! Currently transitioning to Unreal Engine and C++! Best regards 🙇.
+
 ## 🔗 リンク集
 
 - 🎮 [itch.io](https://yotya.itch.io/)  
