@@ -7,8 +7,11 @@
 - ✍️ [Qiita](https://qiita.com/yotya)
 - 🐦 [X (旧Twitter)](https://x.com/Mey_o_n)
 
-<img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossy-o-o" />
-<img alt="GitHub Stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yossy-o-o&show_icons=true&theme=transparent" />
+<div style="display: flex; gap: 20px;">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossy-o-o&layout=compact" height="250px" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yossy-o-o&show_icons=true&theme=transparent" height="250px" />
+</div>
+
  
 
 
