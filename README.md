@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<div style="display: flex;">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&https://github.com/anuraghazra/github-readme-stats" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=transparent" />
+</div>
 <!--
 **yossy-o-o/yossy-o-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
