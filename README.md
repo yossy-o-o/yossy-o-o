@@ -5,12 +5,16 @@
 - 🎮 [itch.io](https://yotya.itch.io/)  
 - 🎮 [Unityroom](https://unityroom.com/users/zh0yc12d9vaoef8p7stg)
 - ✍️ [Qiita](https://qiita.com/yotya)
-- 🐦 [X (旧Twitter)](https://x.com/Mey_o_n)
+- 🐦 [X](https://x.com/Mey_o_n)
 
-<div style="display: flex; gap: 20px;">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossy-o-o&layout=compact" height="250px" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yossy-o-o&show_icons=true&theme=transparent" height="250px" />
-</div>
+<p align="center">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yossy-o-o&layout=compact" height="300px" />
+</p>
+
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yossy-o-o&show_icons=true&theme=transparent" />
+</p>
+
 
  
 
